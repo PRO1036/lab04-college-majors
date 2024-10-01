@@ -4,6 +4,7 @@ Sur votre portail de cours, acceptez l'invitation à rejoindre le projet GitHub 
 
 Copiez le lien de repo personnel pour le Lab03. Cela devrait ressember à `lab04-<votre nom d'utilisateur GitHub>`.
 
+
 Dans RStudio:
 
   - Fichier > Nouveau Projet
